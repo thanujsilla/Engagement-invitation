@@ -4,12 +4,12 @@
 
 export const COUPLE = {
   bride: 'Yamini',
-  groom: 'Nayan Raju',
+  groom: 'Nayan',
   // Optional Telugu spellings shown beneath the names (set to '' to hide)
   brideTelugu: 'యామిని',
-  groomTelugu: 'నయన్ రాజు',
+  groomTelugu: 'నయన్',
   brideParents: 'Ravi Kumar & Nagamani',
-  groomParents: 'Dr. Lokanath Raju & Madhavi', // ← replace ABCDEF with the real name
+  groomParents: 'Dr.Lokanath Raju & Madhavi', // ← replace ABCDEF with the real name
 };
 
 // Telugu blessing shown at the top of the invitation
