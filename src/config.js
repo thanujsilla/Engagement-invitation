@@ -9,7 +9,7 @@ export const COUPLE = {
   brideTelugu: 'యామిని',
   groomTelugu: 'నయన్ రాజు',
   brideParents: 'Ravi Kumar & Nagamani',
-  groomParents: 'Dr. Lokanatham Raju & Madhavi', // ← replace ABCDEF with the real name
+  groomParents: 'Dr. Lokanath Raju & Madhavi', // ← replace ABCDEF with the real name
 };
 
 // Telugu blessing shown at the top of the invitation
@@ -67,7 +67,7 @@ export const PHOTOS = { venue: { src: null } };
 
 // Background music. Put your file at public/music/ (or change src).
 // If the file is missing, the music button simply doesn't appear.
-export const MUSIC = { src: './music/WhatsApp Audio 2026-11-04 at 5.14.21 PM (1).mp3', volume: 0.45, fadeMs: 2500 };
+export const MUSIC = { src: './music/WhatsApp Audio 2026-11-04 at 5.14.21 PM (1).mp3', volume: 0.85, fadeMs: 2500 };
 
 // The couple portrait section. Photo lives in public/photos (replace couple.jpg, or point src elsewhere).
 // pos = CSS object-position used to crop the photo into the arch.
